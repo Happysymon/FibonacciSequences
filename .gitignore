@@ -1,0 +1,15 @@
+# Lean compiler output
+*.olean
+*.ilean
+*.c
+*.bc
+
+# Lake build output and downloaded package cache
+.lake/
+lake-packages/
+
+# Editor and operating-system clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
