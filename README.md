@@ -27,5 +27,4 @@ To check the file with the Lean 4 compiler installed, run:
 lean Fibonacci.lean
 ```
 
-This requires Lean 4's compiler. QuantConnect's `lean` command-line tool has
-the same command name but does not compile Lean language files.
+This requires Lean 4's compiler.
